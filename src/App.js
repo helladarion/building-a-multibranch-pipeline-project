@@ -14,6 +14,8 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
           <br/>
           This is new project to deal with the modules necessary for engineering control and information gettering.
+          <br/>
+          Showing the Jenkins in Action!
         </p>
       </div>
     );
